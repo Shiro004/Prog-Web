@@ -6,6 +6,7 @@ Git:
 Como funciona: O Git rastreia mudanças em arquivos, permitindo a coordenação de trabalho em equipe de forma eficiente. Cada colaborador tem uma cópia local do projeto, e as mudanças são compartilhadas conforme necessário com os comandos push, pull, etc.
 
 Principais comandos:
+
 clone: Clona um repositório remoto para o seu computador local.
 
 commit: Salva as mudanças feitas localmente, criando uma versão do seu código.
