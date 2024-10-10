@@ -7,10 +7,15 @@ Como funciona: O Git rastreia mudanças em arquivos, permitindo a coordenação 
 
 Principais comandos:
 clone: Clona um repositório remoto para o seu computador local.
+
 commit: Salva as mudanças feitas localmente, criando uma versão do seu código.
+
 push: Envia as mudanças salvas (commits) para o repositório remoto (GitHub).
+
 pull: Atualiza sua cópia local com mudanças feitas no repositório remoto.
+
 branch: Cria uma nova "linha" de desenvolvimento para trabalhar sem interferir no código principal.
+
 merge: Junta as mudanças de diferentes branches (ou versões) em uma única.
 
 Vantagens do Git:
